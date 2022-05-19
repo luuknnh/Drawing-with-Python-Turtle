@@ -1,2 +1,2 @@
 # Drawing-with-Python-Turtle
- Learning the basics of Turtle in Python
+ Learning the basics of Turtle in Python to my Nephew 
